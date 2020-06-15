@@ -1,0 +1,2 @@
+# BigQueryStandardSQLChecklist
+BigQuery StandardSQLのレビュー観点表
