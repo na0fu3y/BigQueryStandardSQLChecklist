@@ -1,0 +1,16 @@
+{
+    "name": "bigquery_standard_sql_checklist",
+    "version": "1.0.0",
+    "description": "BigQuery StandardSQLのレビュー観点表",
+    "license": "MIT",
+    "repository": "github:na0fu3y/BigQueryStandardSQLChecklist",
+    "scripts": {
+        "textlint": "textlint"
+    },
+    "dependencies": {
+        "textlint": "^11.6.3",
+        "textlint-rule-preset-ja-spacing": "^2.0.1",
+        "textlint-rule-preset-ja-technical-writing": "^3.1.3",
+        "textlint-rule-spellcheck-tech-word": "^5.0.0"
+    }
+}
