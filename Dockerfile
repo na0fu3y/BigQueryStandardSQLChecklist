@@ -1,4 +1,4 @@
-FROM node:14.4.0-buster AS node
+FROM node:17.3.1-buster AS node
 
 WORKDIR /home/app
 
